@@ -1,2 +1,2 @@
-# terraform-recipes
-Terraform Stuffs
+# Terraform Recipes
+Terraform Stuffs, issues encountered on my day job.
